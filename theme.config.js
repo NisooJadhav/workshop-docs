@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <><a href="https://nisootech.vercel.app">nisoojadhav</a> {new Date().getFullYear()} © <a href="https://workshop-nj.herokuapp.com">Workshoply</a></>,
+  footerText: <>© {new Date().getFullYear()} <a href="https://nisootech.vercel.app">nisoojadhav</a>, <a href="https://workshop-nj.herokuapp.com">Workshoply</a> open source</>,
   unstable_faviconGlyph: '👨',
 }
