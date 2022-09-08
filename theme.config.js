@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
+  github: 'https://github.com/nisoojadhav/workshop',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – Workshoply',
   logo: (
@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
+  footerText: <><a href="https://nisootech.vercel.app">nisoojadhav</a> {new Date().getFullYear()} © <a href="https://workshop-nj.herokuapp.com">Workshoply</a></>,
+  unstable_faviconGlyph: '👨',
 }
