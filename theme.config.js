@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/nisoojadhav/workshop',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  docsRepositoryBase: 'https://github.com/nisoojadhav/workshop-docs/blob/master',
   titleSuffix: ' – Workshoply',
   logo: (
     <>
