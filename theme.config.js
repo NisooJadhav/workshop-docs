@@ -26,35 +26,30 @@ export default {
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-icon-180x180.png"
-      />
-      <link
         rel="icon"
         type="image/png"
         sizes="192x192"
-        href="/android-icon-192x192.png"
+        href="/icon.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="/favicon-32x32.png"
+        href="/icon.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="96x96"
-        href="/favicon-96x96.png"
+        href="/icon.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="/favicon-16x16.png"
+        href="/icon.png"
       />
-      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+      <meta name="msapplication-TileImage" content="/icon.png" />
     </>
   ),
   search: true,
